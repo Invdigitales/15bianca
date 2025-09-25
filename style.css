@@ -265,14 +265,7 @@ background-image: url(./imagenes/gif.gif);
     margin-left: 13%;
   }
   
-  .parrafoD{
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-       font-size: 28px;
-       color: #504f4f;
-       font-weight: 600;
-  }
-
+ 
 
 
 
@@ -346,8 +339,8 @@ background-image: url(./imagenes/gif.gif);
   }
   .collapse p{
     text-align: center;
-    font-family: 'Julius Sans One', sans-serif;
-       font-size: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       font-size: 18px;
        color: #ffffff;
        background-color: #484848;
        margin-top: 5%;
@@ -696,19 +689,7 @@ margin-left: 43%;
 justify-content: center;
 align-items: center;
 }
-.collapse p{
-  text-align: center;
-  font-family: 'Julius Sans One', sans-serif;
-     font-size: 20px;
-     color: #ffffff;
-     background-color: #484848;
-     margin-top: 5%;
-     margin: 4px;
-     padding: 2%;
-     background-image: url(./imagenes/gif.gif);
-      
 
-}
 .linea3{
   color:#212121;
   width: 70%;
